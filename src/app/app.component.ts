@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'cours2';
+  title = 'angular-routing';
+  footerUrl = 'https://www.ganatan.com';
+  footerLink = 'www.ganatan.com';
 }
+
